@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.next-*/
+out/
+coverage/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# EXDELLS deployment exclusions
+outputs/
+work/
+tsconfig.tsbuildinfo
